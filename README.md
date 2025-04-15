@@ -25,7 +25,7 @@ reverse-proxy-demo/ ├── docker-compose.yml # Orchestrates NGINX and backen
 
 ### 1. Clone the Repository
 
-  git clone https://github.com/Younes-AK/reverse-proxy-demo.git
+  git clone https://github.com/Younes-AK/nginx-rev-proxy-demo.git
   cd reverse-proxy-demo
   
 ### 1. Build and Start the Services
