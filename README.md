@@ -40,5 +40,6 @@ reverse-proxy-demo/ ├── docker-compose.yml # Orchestrates NGINX and backen
 ### 3. Test the Setup
   Open your browser or use curl:
     You should see alternating responses from App1 and App2 like:
+    
       # Response from App1 on port 3000
       # Response from App2 on port 3001
